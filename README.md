@@ -38,7 +38,7 @@ I hold an **MSc in Analytical Chemistry** and have hands-on experience through i
 🔗 [LinkedIn](https://www.linkedin.com/in/kshirsagarprasad92)  
 🌐 [GitHub Portfolio](https://github.com/prasadkshir)  
 📧 kshirsagarprasad92@gmail.com  
-📱 +91 8459522977  
+
 
 ---
 
