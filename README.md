@@ -29,7 +29,8 @@ I hold an **MSc in Analytical Chemistry** and have hands-on experience through i
 - [💸 Profit Analysis](https://github.com/prasadkshir/Profit_Analysis) – Impact of R&D and marketing on profitability  
 - [🎬 IMDb Project](https://github.com/prasadkshir/IMDb_Project) – SQL insights from top 1000 movies  
 - [🛒 E-commerce Sales](https://github.com/prasadkshir/Ecommerce_Project) – Python data exploration with visualizations  
-- [🎮 Video Game Sales BI](https://github.com/prasadkshir/Video_Game_Sales_BI) – Power BI dashboard on global game trends  
+- [🎮 Video Game Sales BI](https://github.com/prasadkshir/Video_Game_Sales_BI) – Power BI dashboard on global game trends
+- [📊 Employee Attrition Dashboard]( – Tableau visualization revealing key factors driving employee turnover using HR analytics
 
 ---
 
