@@ -30,7 +30,8 @@ I hold an **MSc in Analytical Chemistry** and have hands-on experience through i
 - [🎬 IMDb Project](https://github.com/prasadkshir/IMDb_Project) – SQL insights from top 1000 movies  
 - [🛒 E-commerce Sales](https://github.com/prasadkshir/Ecommerce_Project) – Python data exploration with visualizations  
 - [🎮 Video Game Sales BI](https://github.com/prasadkshir/Video_Game_Sales_BI) – Power BI dashboard on global game trends
-- [📊 Employee Attrition Dashboard]( – Tableau visualization revealing key factors driving employee turnover using HR analytics
+- [📊 Employee Attrition Dashboard](https://github.com/prasadkshir/employee-attrition-dashboard.git) – Tableau visualization revealing key factors driving employee 
+   turnover using HR analytics
 
 ---
 
