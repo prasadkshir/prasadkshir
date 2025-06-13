@@ -7,10 +7,13 @@
 
 ## 🔍 About Me
 
-I'm a data enthusiast passionate about solving real-world business problems with data. With a strong foundation in **Python, SQL, Power BI**, and **Excel**, I specialize in uncovering insights, building interactive dashboards, and turning raw data into strategic decisions.
+👋 Hi, I’m Prasad — a data-driven thinker who loves solving business problems through analytics.
 
-I hold an **MSc in Analytical Chemistry** and have hands-on experience through internship and personal projects involving market analysis, sales forecasting, and healthcare data.
+🔧 I work with Python, SQL, Power BI, and Excel to clean data, find insights, and build interactive reports.
 
+📊 I’ve explored projects like sales trends, healthcare insights, and market behavior.
+
+🚀 Always learning, always building — feel free to explore my work here!
 ---
 
 ## 🛠️ Tools & Technologies
